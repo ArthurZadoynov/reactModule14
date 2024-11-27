@@ -1,0 +1,43 @@
+:root {
+  --text-color-light: rgb(0, 0, 0);
+  --text-color-dark: #fff;
+  --text-color-dark-secondary: #797c86;
+  --text-color-light-secondary: #191a1c;
+  --text-color-dark-thirdly: #afb0b6;
+  --text-color-light-thirdly: #191a1c;
+  --bg-color-dark: rgb(0, 0, 0);
+  --bg-color-light: #fff;
+}
+
+.container {
+  max-width: 1920px;
+  padding: 80px;
+}
+
+.dark {
+  background-color: #070708;
+  --text-color: var(--text-color-dark);
+  --text-color-secondary: var(--text-color-dark-secondary);
+  --text-color-thirdly: var(--text-color-dark-thirdly);
+  --bg-color: var(--bg-color-dark);
+}
+
+.light {
+  background-color: rgb(255 253 253);
+  --text-color: var(--text-color-light);
+  --text-color-secondary: var(--text-color-light-secondary);
+  --text-color-thirdly: var(--text-color-light-thirdly);
+  --bg-color: var(--bg-color-light);
+}
+
+@media (max-width: 1480px) {
+  .container {
+    padding: 80px 40px;
+  }
+}
+
+@media (max-width: 600px) {
+  .container {
+    padding: 40px 10px;
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "text": "Event Photography",
+    "img": "/IconPhotography.png"
+  },
+  {
+    "id": 2,
+    "text": "On White Photography",
+    "img": "/IconPhotography.png"
+  },
+  {
+    "id": 3,
+    "text": "In Colour Photography",
+    "img": "/IconPhotography.png"
+  },
+  {
+    "id": 4,
+    "text": "Portrains Photography",
+    "img": "/IconPhotography.png"
+  },
+  {
+    "id": 5,
+    "text": "Still Photography",
+    "img": "/IconPhotography.png"
+  },
+  {
+    "id": 6,
+    "text": "Catwalk Photography",
+    "img": "/IconPhotography.png"
+  }
+]

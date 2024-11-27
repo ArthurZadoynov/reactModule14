@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "text": "Multingual team coordination",
+    "img": "/iconService.png"
+  },
+  {
+    "id": 2,
+    "text": "Coordinating production in studios or on location for editorials",
+    "img": "/iconService.png"
+  },
+  {
+    "id": 3,
+    "text": "Designing promotional photography for fashion, beauty, swimwear",
+    "img": "/iconService.png"
+  },
+  {
+    "id": 4,
+    "text": "Creating content expansion and print in an open environment",
+    "img": "/iconService.png"
+  }
+]

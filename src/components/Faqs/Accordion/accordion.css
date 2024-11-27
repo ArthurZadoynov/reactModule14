@@ -1,0 +1,59 @@
+h4 {
+  font-weight: 600;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: var(--text-color-thirdly);
+  margin-bottom: 0;
+}
+
+p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: var(--text-color-secondary);
+  text-transform: none;
+}
+
+.accordStyle {
+  display: flex;
+  justify-content: space-between;
+  padding: 24px 40px;
+  border: 1px solid #1c1c21;
+  align-items: center;
+}
+
+.divAsk {
+  display: flex;
+  flex-direction: column;
+}
+
+.ask {
+  display: flex;
+}
+
+.que {
+  padding-top: 30px;
+}
+
+.btn-click {
+  border: none;
+  border-radius: 100px;
+  padding: 10px;
+  width: 40px;
+  height: 40px;
+  background: #1c1c21;
+}
+
+.btn-click:hover {
+  background: #797c86;
+}
+
+@media (max-width: 880px) {
+  .accordStyle {
+    padding: 20px 10px;
+  }
+
+  .que {
+    padding-top: 10px;
+  }
+}

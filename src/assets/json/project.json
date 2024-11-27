@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Faces of Resilience",
+    "text": "March 2022",
+    "img": "/portfolioIMG1.png"
+  },
+  {
+    "id": 2,
+    "title": "A Wedding Tale",
+    "text": "January 2020",
+    "img": "/portfolioIMG2.png"
+  },
+  {
+    "id": 3,
+    "title": "Product Elegance",
+    "text": "January 2020",
+    "img": "/portfolioIMG3.png"
+  }
+]
